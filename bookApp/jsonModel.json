@@ -1,0 +1,42 @@
+    [
+        {
+            "title": "Origin",
+            "author": "Dan Brown",
+            "synopsis" : "",
+            "genre": "",
+            "releasedYear": "",
+            "rating": ""
+        },
+        {
+            "title": "Das Kapital",
+            "author": "Karl Marx",
+            "genre": "",
+            "synopsis" : "",
+            "releasedYear": "",
+            "rating": ""
+        },
+        {
+            "title": "Relativity",
+            "author": "Albert Einstein",
+            "genre": "",
+            "synopsis" : "",
+            "releasedYear": "",
+            "rating": ""
+        },
+        {
+            "title": "The Lean Startup",
+            "author": "Eric Ries",
+            "genre": "",
+            "synopsis" : "",
+            "releasedYear": "",
+            "rating": ""
+        },
+        {
+            "title": "Death",
+            "author": "Sadhguru",
+            "genre": "",
+            "synopsis" : "",
+            "releasedYear": "",
+            "rating": ""
+        }
+    ]
